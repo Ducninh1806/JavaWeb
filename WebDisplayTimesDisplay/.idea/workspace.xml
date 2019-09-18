@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="579cd3b0-879f-4d6c-a989-74347d24ff90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Week 1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/CleanCodeRefactoringExercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/src/TennisGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-exercise-master/test/TennisGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/CleanCodeRefactoringMethodExtraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/src/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-method-extraction-master/test/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-renaming-master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-renaming-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/CleanCodeRefactoringVariableExtraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/src/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/CleanCode/java-cleancode-refactoring-variable-extraction-master/test/FizzBuzzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/ContactPhone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/out/production/ContactPhone/ContactPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/ContactPhone/src/ContactPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/JavaInterFace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/out/production/JavaInterFace/JavaInterFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/JavaInterFace/src/JavaInterFace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/Cau1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/out/production/Cau1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/out/production/Cau1/ProductManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/out/production/Cau1/ProductTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/src/ProductManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau1/src/ProductTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/Cau2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/out/production/Cau2/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/out/production/Cau2/ContactPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/out/production/Cau2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/src/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/src/ContactPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/KiemTra/Cau2/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/out/production/Demo/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/Demo/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/MoPhongCacPhuongThucLinkedList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/out/production/MoPhongCacPhuongThucLinkedList/MyLinkedLinkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/out/production/MoPhongCacPhuongThucLinkedList/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/out/production/MoPhongCacPhuongThucLinkedList/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/src/MyLinkedLinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/LinkedList/MoPhongCacPhuongThucLinkedList/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/Them_Sua_Xoa_TimKiem_Xuat_SapXep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/out/production/Them_Sua_Xoa_TimKiem_Xuat_SapXep/TestArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Them_Sua_Xoa_TimKiem_Xuat_SapXep/src/TestArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/TrienKhaiCacPhuongThucCuaArrayList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/out/production/TrienKhaiCacPhuongThucCuaArrayList/TestArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiCacPhuongThucCuaArrayList/src/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/TrienKhaiLopListDonGian.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/out/production/TrienKhaiLopListDonGian/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/out/production/TrienKhaiLopListDonGian/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/src/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopDonGian/src/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/TrienKhaiLopLinkedListDonGian.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/out/production/TrienKhaiLopLinkedListDonGian/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/out/production/TrienKhaiLopLinkedListDonGian/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/out/production/TrienKhaiLopLinkedListDonGian/TestMyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/TrienKhaiLopLinkedListDonGian/src/TestMyLinkedList.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\IdeaProjects\Week 3\WebDisplayTimesDisplay\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QzhNT5wgAAWhqLh4DHC7LGvk2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_WebDisplayTimesDisplay" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53700" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="579cd3b0-879f-4d6c-a989-74347d24ff90" name="Default Changelist" comment="" />
+      <created>1568779295117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568779295117</updated>
+      <workItem from="1568779317548" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
