@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "ConvertMoney",urlPatterns = "/convert")
+@WebServlet(name = "ConvertMoney", urlPatterns = "/convert")
 public class ConvertMoney extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         float rate = Float.parseFloat(request.getParameter("rate"));
@@ -16,9 +16,9 @@ public class ConvertMoney extends HttpServlet {
 
         PrintWriter writer = response.getWriter();
         writer.println("<html>");
-        writer.println("<h1> Rate: "+ rate + "<h1>");
-        writer.println("<h1> USD "+ usd + "<h1>");
-        writer.println("<h1> VND "+ vnd + "<h1>");
+        writer.println("<h1> Rate: " + rate + "<h1>");
+        writer.println("<h1> USD " + usd + "<h1>");
+        writer.println("<h1> VND " + vnd + "<h1>");
         writer.println("<html>");
 
     }
